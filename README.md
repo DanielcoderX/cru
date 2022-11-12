@@ -33,6 +33,7 @@
 
 [ ] Setup Front
 
+[ ] Raise human readable error for anything (redis down - connection problem - query error)
 
 ## Contributing
 Pull requests are welcome :)
